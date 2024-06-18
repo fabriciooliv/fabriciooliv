@@ -1,16 +1,18 @@
-## Hi there 👋
+### Oi meu nome é Fabricio Oliveira
+![image](https://github.com/fabriciooliv/fabriciooliv/assets/146496164/6f1b7fc6-dace-4394-8d6c-49e02cb5aad4) Sou Engenheiro Elétrico e apaixonado por Tecnologia. Atualmente não atuo em TI, mas estou estudando e me qualificando para ingressar neste universo que sou apaixonado.
+- Fã de todo tipo de Tecnologia, grande experiencia em Automação Industrial;
+- Facilidade de trabalhar em equipe;
+- Artista plástico e músico;
 
-<!--
-**fabriciooliv/fabriciooliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Iniciei minha trajetoria em TI na area de Cloud "AWS" tirando minha primeira certificação em TI, e hoje meu foco é 
+especializar, me tornar um Engenheiro de Software / Arquiteto de Soluções.
 
-Here are some ideas to get you started:
+Linguagens de programação em aprendizagem:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java;
+
+Python;
+
+CSS
+
+HTML
