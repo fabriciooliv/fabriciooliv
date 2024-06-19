@@ -7,7 +7,7 @@
 Iniciei minha trajetoria em TI na area de Cloud "AWS" tirando minha primeira certificação em TI, e hoje meu foco é 
 especializar, me tornar um Engenheiro de Software / Arquiteto de Soluções.
 
-## Tecnologias e Ferramentas
+## 💻 Tecnologias e Ferramentas
 
 ![image](https://github.com/fabriciooliv/fabriciooliv/assets/146496164/ca262417-e7b0-4fea-ba85-94ca7b374a14)
 
@@ -19,7 +19,10 @@ especializar, me tornar um Engenheiro de Software / Arquiteto de Soluções.
 
 ![image](https://github.com/fabriciooliv/fabriciooliv/assets/146496164/3bebafbf-df4e-406d-97d4-1216e3947974)
 
+![image](https://github.com/fabriciooliv/fabriciooliv/assets/146496164/5d7f593c-68f1-4669-b59e-df3079cd8de0)
+
 ![image](https://github.com/fabriciooliv/fabriciooliv/assets/146496164/ed393bdf-5f90-4d93-ab49-2d1d1b36fd36)
+
 
 
 
